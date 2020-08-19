@@ -600,7 +600,8 @@ footer {
     }
 
     .about__article,
-    .about {
+    .about,
+    .services {
         margin: 0 auto;
     }
 
